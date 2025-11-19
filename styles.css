@@ -2,3 +2,6 @@ body{
 color: blueviolet;
 background: cornsilk;
 }
+header{
+    border-bottom: solid 2px rgb(79,47,79);
+}
