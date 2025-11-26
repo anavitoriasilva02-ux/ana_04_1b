@@ -5,4 +5,7 @@ background: cornsilk;
 header{
     border-bottom: solid 2px rgb(79,47,79);
     padding: 20px;
+    font-size: 32px;
+    color: cornflowerblue;
+    background-color: darkslateblue;
 }
