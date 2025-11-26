@@ -9,3 +9,10 @@ header{
     color: cornflowerblue;
     background-color: darkslateblue;
 }
+.chamada{
+    background: darkviolet;
+padding-top: 100px;
+padding-bottom: 100px;
+display: flex;
+justify-content: center;
+}
